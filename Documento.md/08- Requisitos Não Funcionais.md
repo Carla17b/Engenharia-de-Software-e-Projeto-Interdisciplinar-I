@@ -47,17 +47,17 @@ O sistema deve garantir a integridade dos dados armazenados, evitando duplicidad
 
 ##### Prioridade: Média
 
-RNF-10 – Manutenibilidade
+##### RNF-10 – Manutenibilidade
 
 O código-fonte deve ser organizado em módulos separados (interface, regras de negócio e persistência de dados), facilitando manutenção e evolução do sistema.
 Prioridade: Alta
 
-RNF-11 – Portabilidade
+##### RNF-11 – Portabilidade
 
 O sistema deve poder ser executado em diferentes máquinas, desde que o ambiente Python e as dependências necessárias estejam corretamente instalados.
 Prioridade: Média
 
-RNF-12 – Limitações do Sistema
+##### RNF-12 – Limitações do Sistema
 
 O sistema não deve ser considerado uma plataforma comercial real, sendo destinado a fins educacionais e acadêmicos, com funcionalidades de pagamento e nota fiscal simuladas.
 Prioridade: Alta
