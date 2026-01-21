@@ -10,7 +10,7 @@
 
 
 #### Biblioteca Avalon 
-Muito mais que um e-commerce, nossa plataforma nasce como um ecossistema completo para os amantes da literatura. Focada na economia circular, a aplicação conecta leitores, doadores e colecionadores em um ambiente seguro para a venda, locação e doação de livros físicos. Acreditamos que uma história nunca deve ficar parada na estante; por isso, oferecemos uma interface intuitiva que facilita desde o desapego consciente até a busca por edições raras. Com sistemas integrados de logística e pagamento, garantimos que o conhecimento circule de forma prática, democratizando o acesso à leitura e unindo pessoas através do poder dos livros.
+Muito mais que um e-commerce, nossa plataforma nasce como um ecossistema completo para os amantes da literatura. Focada na economia circular, a aplicação conecta leitores e colecionadores em um ambiente seguro para a venda, locação de livros físicos. Acreditamos que uma história nunca deve ficar parada na estante; por isso, oferecemos uma interface intuitiva que facilita desde o desapego consciente até a busca por edições raras. Com sistemas integrados de logística e pagamento, garantimos que o conhecimento circule de forma prática, democratizando o acesso à leitura e unindo pessoas através do poder dos livros.
 
 ## Grupo:
 
