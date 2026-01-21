@@ -27,7 +27,7 @@ O sistema deve exibir um catálogo de livros contendo, no mínimo:
 
 ##### Prioridade: Alta
 
-RF-05 – Carrinho de Compras: 
+##### RF-05 – Carrinho de Compras: 
 O sistema deve permitir que usuários adicionem livros ao carrinho de compras diretamente a partir do catálogo.
 
 ##### Prioridade: Alta
